@@ -92,7 +92,4 @@ This repository implements a **Quantum Causal Explainable AI (XAI)** pipeline th
 ---
 
 👨‍🔬 Authors
-**Parth Bramhecha
-Shubham Chandaratre
-Rajdeep Thakur
-**
+Parth Bramhecha,Shubham Chandaratre,Rajdeep Thakur
